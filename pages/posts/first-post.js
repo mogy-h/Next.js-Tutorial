@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Head from "next/head";
 import Layout from "../../components/layout";
 
@@ -10,9 +9,7 @@ export default function FirstPost() {
       </Head>
       <h1>First Post</h1>
       <h2>
-        <Link href="/">
-          <a>Back to home</a>
-        </Link>
+        最近調子どうだーい？
       </h2>
     </Layout>
   );
