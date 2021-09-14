@@ -1,5 +1,5 @@
 ---
-title: "Two Forms of Pre-rendering"
+title: "こんにちは。いい天気ですね！"
 date: "2021-09-13"
 ---
 

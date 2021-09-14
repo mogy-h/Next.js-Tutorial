@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: '今日はカレーが食べたい気分だなー。'
 date: '2021-09-14'
 ---
 
