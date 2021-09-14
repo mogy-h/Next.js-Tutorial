@@ -40,9 +40,6 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
-      <Link href="/posts/first-post">
-        <a>first-postに移動</a>
-      </Link>
     </Layout>
   );
 }
